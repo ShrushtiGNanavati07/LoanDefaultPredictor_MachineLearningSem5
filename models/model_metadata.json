@@ -1,0 +1,11 @@
+{
+    "model_name": "Gradient Boosting",
+    "threshold": 0.19,
+    "threshold_selection": "F1 maximization on validation set",
+    "test_accuracy": 0.8256,
+    "test_precision": 0.3205,
+    "test_recall": 0.4481,
+    "test_f1": 0.3737,
+    "test_roc_auc": 0.7595,
+    "test_pr_auc": 0.3278
+}
