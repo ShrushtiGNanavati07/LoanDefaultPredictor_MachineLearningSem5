@@ -1,0 +1,7 @@
+# Machine Learning models
+models/*.pkl
+models/*.joblib
+
+# Python cache
+__pycache__/
+*.pyc
